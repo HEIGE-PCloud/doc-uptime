@@ -10,6 +10,10 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"alive"'
   - name: DoC GitLab
     url: https://gitlab.doc.ic.ac.uk
+  - name: Cate
+    url: https://cate.doc.ic.ac.uk
+    expectedStatusCodes:
+      - 401 # Not authorised
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
