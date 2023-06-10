@@ -7,13 +7,10 @@ sites:
     url: https://scientia.doc.ic.ac.uk
   - name: Scientia API
     url: https://scientia.doc.ic.ac.uk/api/status
-    __dangerous__body_down_if_text_missing: "status":"alive"
+    __dangerous__body_down_if_text_missing: '"status":"alive"'
   - name: DoC GitLab
     url: https://gitlab.doc.ic.ac.uk
-  - name: Cate
-    url: https://cate.doc.ic.ac.uk
-    expectedStatusCodes:
-      - 401 # Not authorised
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
