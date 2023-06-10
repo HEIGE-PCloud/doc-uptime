@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DoC Uptime
   introTitle: "**DoC Uptime**"
-  introMessage: Monitor all ![DoC services](https://teaching.doc.ic.ac.uk). This website is not affiliated by the department.
+  introMessage: Monitor all [DoC services](https://teaching.doc.ic.ac.uk). This website is not affiliated by the department.
   navbar:
     - title: Status
       href: /
