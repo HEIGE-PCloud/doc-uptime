@@ -8,6 +8,8 @@ sites:
     url: https://scientia.doc.ic.ac.uk/api/auth/login
     headers:
       - "Content-Type: application/json"
+      - "Accept": "*/*"
+      - "Connection": "keep-alive"
     body: '{"username":"$USERNAME","password":"$PASSWORD"}'
   - name: Cate
     url: https://cate.doc.ic.ac.uk
