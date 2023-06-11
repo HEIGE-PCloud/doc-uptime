@@ -40,19 +40,19 @@
     "url": "https://cate.doc.ic.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/cate.doc.ic.ac.uk.ico",
     "slug": "cate",
-    "status": "down",
-    "uptime": "42.36%",
-    "uptimeDay": "42.36%",
-    "uptimeWeek": "42.36%",
-    "uptimeMonth": "42.36%",
-    "uptimeYear": "42.36%",
-    "time": 1532,
-    "timeDay": 1532,
-    "timeWeek": 1532,
-    "timeMonth": 1532,
-    "timeYear": 1532,
+    "status": "up",
+    "uptime": "26.29%",
+    "uptimeDay": "26.29%",
+    "uptimeWeek": "26.29%",
+    "uptimeMonth": "26.29%",
+    "uptimeYear": "26.29%",
+    "time": 1570,
+    "timeDay": 1570,
+    "timeWeek": 1570,
+    "timeMonth": 1570,
+    "timeYear": 1570,
     "dailyMinutesDown": {
-      "2023-06-11": 372
+      "2023-06-11": 767
     }
   },
   {
