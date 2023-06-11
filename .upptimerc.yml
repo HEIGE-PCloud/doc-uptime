@@ -17,8 +17,9 @@ sites:
       - 401 # Not authorised
   - name: GitLab
     url: https://gitlab.doc.ic.ac.uk
-  - name: LabTS
-    url: https://teaching.doc.ic.ac.uk/labts
+#     TODO: CSRF token
+#   - name: LabTS
+#     url: https://teaching.doc.ic.ac.uk/labts
   - name: Emarking
     url: https://emarking.doc.ic.ac.uk/
     method: POST
