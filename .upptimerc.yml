@@ -4,6 +4,7 @@ repo: doc-uptime # The name of this repository
 
 sites:
   - name: Scientia
+    method: POST
     url: https://scientia.doc.ic.ac.uk/api/auth/login
     headers:
       - "Content-Type: application/json"
@@ -18,6 +19,7 @@ sites:
     url: https://teaching.doc.ic.ac.uk/labts
   - name: Emarking
     url: https://emarking.doc.ic.ac.uk/
+    method: POST
     headers:
       - "Content-Type: application/x-www-form-urlencoded"
     body: 'username=$USERNAME&password=$PASSWORD'
