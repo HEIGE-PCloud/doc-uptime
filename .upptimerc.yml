@@ -10,7 +10,7 @@ sites:
       - "Content-Type: application/json"
       - "Accept: */*"
       - "Connection: keep-alive"
-    body: '{"username":"$USERNAME","password":"$PASSWORD"}'
+    body: '$SCIENTIA_BODY'
   - name: Cate
     url: https://cate.doc.ic.ac.uk
     expectedStatusCodes:
