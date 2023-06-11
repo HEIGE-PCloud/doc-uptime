@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/scientia.doc.ic.ac.uk.ico",
     "slug": "scientia",
     "status": "down",
-    "uptime": "97.85%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "97.85%",
-    "time": 1062,
-    "timeDay": 1066,
-    "timeWeek": 1062,
-    "timeMonth": 1062,
-    "timeYear": 1062,
+    "uptime": "97.69%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "97.69%",
+    "time": 1081,
+    "timeDay": 1088,
+    "timeWeek": 1081,
+    "timeMonth": 1081,
+    "timeYear": 1081,
     "dailyMinutesDown": {
-      "2023-06-11": 31
+      "2023-06-11": 33
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cate.doc.ic.ac.uk.ico",
     "slug": "cate",
     "status": "down",
-    "uptime": "19.14%",
-    "uptimeDay": "19.14%",
-    "uptimeWeek": "19.14%",
-    "uptimeMonth": "19.14%",
-    "uptimeYear": "19.14%",
+    "uptime": "19.11%",
+    "uptimeDay": "19.11%",
+    "uptimeWeek": "19.11%",
+    "uptimeMonth": "19.11%",
+    "uptimeYear": "19.11%",
     "time": 1570,
     "timeDay": 1806,
     "timeWeek": 1570,
     "timeMonth": 1570,
     "timeYear": 1570,
     "dailyMinutesDown": {
-      "2023-06-11": 1155
+      "2023-06-11": 1158
     }
   },
   {
@@ -50,29 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1072,
-    "timeDay": 1072,
-    "timeWeek": 1072,
-    "timeMonth": 1072,
-    "timeYear": 1072,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "LabTS",
-    "url": "https://teaching.doc.ic.ac.uk/labts",
-    "icon": "https://icons.duckduckgo.com/ip3/teaching.doc.ic.ac.uk.ico",
-    "slug": "lab-ts",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 985,
-    "timeWeek": 985,
-    "timeMonth": 985,
-    "timeYear": 985,
+    "time": 1073,
+    "timeDay": 1073,
+    "timeWeek": 1073,
+    "timeMonth": 1073,
+    "timeYear": 1073,
     "dailyMinutesDown": {}
   },
   {
@@ -81,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/emarking.doc.ic.ac.uk.ico",
     "slug": "emarking",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "98.29%",
-    "time": 860,
-    "timeDay": 860,
-    "timeWeek": 860,
-    "timeMonth": 860,
-    "timeYear": 860,
+    "uptime": "98.12%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.12%",
+    "time": 851,
+    "timeDay": 851,
+    "timeWeek": 851,
+    "timeMonth": 851,
+    "timeYear": 851,
     "dailyMinutesDown": {
-      "2023-06-11": 24
+      "2023-06-11": 27
     }
   }
 ]
