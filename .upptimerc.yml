@@ -8,7 +8,6 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{"username":"$USERNAME","password":"$PASSWORD"}'
-
   - name: Cate
     url: https://cate.doc.ic.ac.uk
     expectedStatusCodes:
@@ -18,7 +17,12 @@ sites:
   - name: LabTS
     url: https://teaching.doc.ic.ac.uk/labts
   - name: Emarking
-    url: https://emarking.doc.ic.ac.uk/    
+    url: https://emarking.doc.ic.ac.uk/
+    headers:
+      - "Content-Type: application/x-www-form-urlencoded"
+    body: 'username=$USERNAME&password=$PASSWORD'
+    expectedStatusCodes:
+      - 302 # redirect
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
