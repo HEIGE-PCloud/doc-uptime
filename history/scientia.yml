@@ -1,7 +1,7 @@
 url: https://scientia.doc.ic.ac.uk/api/auth/login
-status: down
-code: 401
-responseTime: 886
-lastUpdated: 2023-07-28T10:29:30.539Z
+status: up
+code: 200
+responseTime: 1816
+lastUpdated: 2023-07-28T10:45:18.780Z
 startTime: Sat Jun 10 2023 20:12:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
