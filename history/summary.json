@@ -65,9 +65,9 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 2069,
     "timeDay": 7655,
@@ -75,7 +75,6 @@
     "timeMonth": 3154,
     "timeYear": 2069,
     "dailyMinutesDown": {
-      "2023-09-29": 6,
       "2023-07-24": 201,
       "2023-07-23": 724,
       "2023-07-16": 17
