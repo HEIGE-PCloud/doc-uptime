@@ -1,7 +1,7 @@
 url: https://gitlab.doc.ic.ac.uk
-status: up
-code: 200
-responseTime: 1013
-lastUpdated: 2024-03-02T23:05:34.314Z
+status: down
+code: 500
+responseTime: 5463
+lastUpdated: 2024-03-03T02:06:56.270Z
 startTime: 2023-06-10T20:40:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
